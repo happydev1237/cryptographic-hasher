@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "clipboard": "^2.0.4",
-    "svelte-awesome": "^2.2.1"
+    "svelte-awesome": "^2.2.1",
+    "svelte-routing": "^1.4.1"
   }
 }

@@ -15,7 +15,7 @@ body {
 }
 
 a {
-	color: rgb(0,100,200);
+	color: rgb(221, 221, 221);
 	text-decoration: none;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 a:visited {
-	color: rgb(0,80,160);
+	color: rgb(175, 175, 175);
 }
 
 label {
@@ -37,7 +37,6 @@ input, button, select, textarea {
 	padding: 0.4em;
 	box-sizing: border-box;
 	border: 1px solid #ccc;
-	border-radius: 2px;
 	width: none;
 }
 
@@ -51,7 +50,7 @@ input[type="range"] {
 
 button {
 	color: white;
-	background-color: #FFCA1A;
+	background-color: #ffc400;
 	outline: none;
 }
 
