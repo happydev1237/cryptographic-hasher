@@ -17,7 +17,7 @@
   <div style="height: 100%">
     <!-- <Route path="blog/:id" component="{BlogPost}" />
     <Route path="blog" component="{Blog}" />  -->
-    <Route path="/" noroute component={Encryptor} />
-    <Route path="/ss"><Phasher  /></Route>
+    <Route path="/encryptor" noroute component={Encryptor} />
+    <Route path="/"><Phasher  /></Route>
   </div>
 </Router>

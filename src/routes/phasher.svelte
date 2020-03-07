@@ -17,8 +17,6 @@
 	function random() {
 		salt = crypto.randomBytes(16).toString('hex');
 	}
-
-
 </script>
 
 <style>
@@ -94,6 +92,8 @@
 		<button type="submit">Hash</button>
 		
 	</form>
+	<code style="color:  chartreuse; padding-top: 10px">SHA 512-bit Hashing</code>
+
 	{#if hash !== ""}
 		<div class="modal">
 		<div on:click={() => hash = ""} class="iconim">
@@ -107,7 +107,7 @@
 		</div>
 	{/if}
 
-	<footer style="position: fixed; bottom: 0; padding: 16px"> Designed and developed by AzizStark</footer>
+	<footer style="position: fixed; bottom: 0; padding: 16px"> Designed and developed by <span style="color:  chartreuse">AzizStark</span></footer>
 
 </div>
 
