@@ -3,7 +3,6 @@
 
 <h3> Password Hasher : <h3><h4> &nbsp;&nbsp;  Hash passwords with 512-bit Secure Hash Algorithm. </h4>
 <h3> Text Encryptor : </h3><h4> &nbsp;&nbsp;  Encrypt text with 256-bit Advanced Encryption Standard. </h4>
-<br/>
 <h3> Built with: </h3>
 <h4> &nbsp; &nbsp; Svelte JS</h4>
 <h4> &nbsp; &nbsp; NodeJS | Crypto</h4>
