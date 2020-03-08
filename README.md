@@ -5,5 +5,5 @@
 <h3> Text Encryptor : </h3><h4> &nbsp;&nbsp;  Encrypt text with 256-bit Advanced Encryption Standard. </h4>
 <h3> Built with: </h3>
 <h4> &nbsp; &nbsp; Svelte JS</h4>
-<h4> &nbsp; &nbsp; NodeJS | Crypto</h4>
+<h4> &nbsp; &nbsp; Node JS | Crypto</h4>
 
