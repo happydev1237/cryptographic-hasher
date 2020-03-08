@@ -15,8 +15,6 @@
   </nav>
  
   <div style="height: 100%">
-    <!-- <Route path="blog/:id" component="{BlogPost}" />
-    <Route path="blog" component="{Blog}" />  -->
     <Route path="/encryptor" noroute component={Encryptor} />
     <Route path="/"><Phasher  /></Route>
   </div>
