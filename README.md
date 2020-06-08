@@ -1,4 +1,4 @@
-<p align="center"> <img width="300" src="https://res.cloudinary.com/azizcloud/image/upload/v1583661733/lq7ofnqzxeb8zyhj6lc0.svg" href="https://stash.azizstark.tech" /></p>
+<a align="center" href="https://stash.azizstark.tech"> <img width="300" src="https://res.cloudinary.com/azizcloud/image/upload/v1583661733/lq7ofnqzxeb8zyhj6lc0.svg" /></a>
 
 
 <h3> Password Hasher : <h3><h4> &nbsp;&nbsp;  Hash passwords with 512-bit Secure Hash Algorithm. </h4>
